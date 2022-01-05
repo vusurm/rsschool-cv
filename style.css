@@ -1,5 +1,13 @@
 <style>
-h1 {
-  font Arial 2em
-}
+  h1 {
+    font: Arial 2em;
+  }
+
+  h2 {
+    font: Arial 1em;
+  }
+
+  p {
+    font: Arial;
+  }
 </style>
