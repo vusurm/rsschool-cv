@@ -17,7 +17,9 @@
 ## Qt
 
 ## Development for STM microcontrollers
+
 ## Development for PLC and NC
+
 # Code sample
 
 ```
@@ -30,10 +32,13 @@ int main (void)
 ```
 
 # experience
+
 ## Accounting and industrial software development.
 
 # Educaton
+
 ## Izhevsk State Technical University
 
 # English
+
 ## A2
