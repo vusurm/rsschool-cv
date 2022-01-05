@@ -1,24 +1,24 @@
-#Vladimir Surmach
+# Vladimir Surmach
 
-#Contact
+# Contact
 
-##426000 Ihzevsk, Russia
+## 426000 Ihzevsk, Russia
 
-##vursurm@gmail.com
+## vursurm@gmail.com
 
-#About me
+# About me
 
-##A software developer for indastrial environments.
+## A software developer for indastrial environments.
 
-#Skills
+# Skills
 
-##C/C++, Structured Text IEC 61131-3
+## C/C++, Structured Text IEC 61131-3
 
-##Qt
+## Qt
 
-##Development for STM microcontrollers
-##Development for PLC and NC
-#Code sample
+## Development for STM microcontrollers
+## Development for PLC and NC
+# Code sample
 
 ```
 #include <stdio.h>
@@ -29,11 +29,11 @@ int main (void)
 }
 ```
 
-#experience
-##Accounting and industrial software development.
+# experience
+## Accounting and industrial software development.
 
-#Educaton
-##Izhevsk State Technical University
+# Educaton
+## Izhevsk State Technical University
 
-#English
-##A2
+# English
+## A2
